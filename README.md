@@ -1,4 +1,7 @@
 # Book-Tableau-Analysis-
+
+Uploaded to Tableau Public : https://public.tableau.com/shared/2M4F7DMTW?:display_count=n&:origin=viz_share_link
+
 Exploratory Data Analysis Goodreads is an insightful project that I've recently completed. In this project, I delved into the vast world of Goodreads data to uncover valuable insights about books, readers, and the reading community. Through a combination of data retrieval, cleaning, and visualization techniques, I gained a deep understanding of the dataset.
 
 My EDA for Goodreads involved:
@@ -16,3 +19,5 @@ Recommendation Insights: By analyzing user ratings and reviews, I gained insight
 Data Presentation: To communicate my findings effectively, I designed interactive Tableau dashboards that encapsulated key insights, making them accessible and visually appealing.
 
 This EDA project for Goodreads not only allowed me to showcase my data analysis skills but also provided valuable insights into the reading community's preferences and behaviors. It demonstrates my ability to extract actionable insights from complex datasets, which can be leveraged to enhance user experiences, improve book recommendations, and support data-driven decision-making in the world of literature.
+
+Sources: https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks
