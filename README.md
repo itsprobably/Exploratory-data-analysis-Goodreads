@@ -1,4 +1,4 @@
-# Book-Tableau-Analysis-
+# Exploratory Data Analysis Goodreads-
 
 Uploaded to Tableau Public : https://public.tableau.com/shared/2M4F7DMTW?:display_count=n&:origin=viz_share_link
 
